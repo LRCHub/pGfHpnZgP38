@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "清水翔太 『My Boo』Short Ver.",
+  "base_artist": "清水 翔太",
+  "createdAt": "2025-12-18T13:40:53.850597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "清水翔太『花束のかわりにメロディーを』MV (Full Size)",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/01_清水翔太『花束のかわりにメロディーを』MV_(Full_Size)_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【清水翔太】 君が好き",
+      "artist": "KuИ様",
+      "has_synced": true,
+      "path": "select/02_【清水翔太】_君が好き_KuИ様.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "片方の未来 (produced by 清水翔太) - Katahouno Mirai",
+      "artist": "TEE",
+      "has_synced": true,
+      "path": "select/03_片方の未来_(produced_by_清水翔太)_-_Katahouno_Mirai_TEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【清水翔太】 君が好き",
+      "artist": "Eve_?",
+      "has_synced": true,
+      "path": "select/04_【清水翔太】_君が好き_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "OH feat. 清水翔太, OZworld",
+      "artist": "CrazyBoy",
+      "has_synced": true,
+      "path": "select/05_OH_feat._清水翔太,_OZworld_CrazyBoy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "清水翔太 Aishiteru",
+      "artist": "余大永",
+      "has_synced": true,
+      "path": "select/06_清水翔太_Aishiteru_余大永.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OH - feat. 清水翔太, OZworld",
+      "artist": "CB",
+      "has_synced": true,
+      "path": "select/07_OH_-_feat._清水翔太,_OZworld_CB.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "片方の未来 (produced by 清水翔太)",
+      "artist": "TEE",
+      "has_synced": true,
+      "path": "select/08_片方の未来_(produced_by_清水翔太)_TEE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ONE LOVE feat．清水翔太<’08 ver．>",
+      "artist": "Dohzi-T",
+      "has_synced": false,
+      "path": "select/09_ONE_LOVE_feat.清水翔太_’08_ver._Dohzi-T.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Because of you",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_01_Because_of_you_清水_翔太.txt"
+    }
+  ]
+}
